@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food Ordering App</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body onload="getData()">
+    
+    <h2 class="heading">Food Ordering App using Vanilla Javascript made on 3-sep-2020 </h2>
+    <div class="searchbar">
+        <div class="search">
+            <input type="text" class="searchTerm" id="searchTerm" placeholder="What are you looking for?">
+            <button type="submit" class="searchButton" onclick="searchRestaurants()">
+             Search!
+           </button>
+         </div>
+         <div class="sortby">
+             <select onchange="sortingFilter(this)">
+                 <option value="0">Sort By</option>
+                 <option value="name">Name</option>
+                 <option value="eta">Expected Time of Arrival</option>
+                 <option value="rating">Ratings</option>
+               </select>
+         </div>
+         <div class="sortby">
+            <button onclick="reset()" class="reset"> RESET</button>
+        </div>
+
+    </div>
+        
+    
+
+        <div class="card-container" id="card-container">
+
+        
+
+        </div>
+
+    
+   
+    
+   
+        
+<script src="script.js"></script>
+</body>
+</body>
+</html>

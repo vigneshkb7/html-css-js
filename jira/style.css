@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,900&display=swap');
+* { 
+    box-sizing: border-box;
+}
+body{
+    background-color: #242333;
+    font-family: 'Lato', sans-serif;
+    display: flex;
+    flex-direction: column;
+    color: white; 
+    height: 100vh;
+    margin: 0; 
+}
+.root{
+   width: auto;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  
+
+}
+h2{
+    text-align: center;
+}
+
+.child{
+    width: 25% ;
+    margin:15px;
+    color: royalblue;
+    background-color: tan;
+    border-radius: 5px;
+
+  
+}
+
+.child h2 {
+    background-color: skyblue;
+    padding: 5%;
+    margin: 0;
+}
+
+.card {
+    width: auto;
+    height: 150px;
+    background-color: wheat;
+    margin: 10px;
+    position: relative;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 3px 3px 3px;
+}
+
+.card h3 {
+    background-color: skyblue;
+    padding: 5%;
+    margin: 0;
+}
+
+.card h4{
+    bottom: 0;
+}

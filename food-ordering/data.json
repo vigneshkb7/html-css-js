@@ -1,0 +1,102 @@
+[
+  {
+    "name": "McDonalds",
+    "id": 1,
+    "location": "Anna nagar",
+    "rating": 4,
+    "eta": 10,
+    "tags": ["veg", "non-veg", "burger", "quick", "fast-food"],
+    "isFav": false,
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQjRGqZjM-ycU5xmgX_5ZmHUfthyedMv-nCw&usqp=CAU"
+  },
+  {
+    "name": "KFC",
+    "id": 2,
+    "location": "Mogappair",
+    "rating": 3,
+    "eta": 15,
+    "tags": ["non-veg", "burger", "quick"],
+    "isFav": false,
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT9Oh2Ev1rwtLG6jqfxpMRxhesvmT5poUGUvQ&usqp=CAU"
+  },
+  {
+    "name": "Thalapakatty",
+    "id": 3,
+    "location": "Ambattur",
+    "rating": 4,
+    "eta": 19,
+    "tags": ["veg", "non-veg", "burger", "quick", "fast-food"],
+    "isFav": false,
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTRsmQLPX47PvBUt9vXNIirvXNcbJY29kjmcw&usqp=CAU"
+  },
+  {
+    "name": "Madurai mess",
+    "id": 4,
+    "location": "Ambattur",
+    "rating": 5,
+    "eta": 3,
+    "tags": ["veg"],
+    "isFav": false,
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTK_OAwFZWZqQeK1-S_prLCowFuJN6zrLWKKg&usqp=CAU"
+  },
+  {
+    "name": "Paragon",
+    "id": 5,
+    "location": "Anna nagar",
+    "rating": 4,
+    "eta": 10,
+    "tags": ["veg", "non-veg", "burger", "quick", "fast-food"],
+    "isFav": false,
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSERR_NgiD3c6OnVHizWLAJKlL2CbNpzEr53g&usqp=CAU"
+  },
+  {
+    "name": "Saravana Bhavan",
+    "id": 6,
+    "location": "bhavani nagar",
+    "rating": 2,
+    "eta": 10,
+    "tags": ["veg", "non-veg", "burger", "quick", "fast-food"],
+    "isFav": false,
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTK_OAwFZWZqQeK1-S_prLCowFuJN6zrLWKKg&usqp=CAU"
+  },
+  {
+    "name": "Dominos",
+    "id": 7,
+    "location": "Anna nagar",
+    "rating": 4,
+    "eta": 10,
+    "tags": ["veg", "non-veg", "fast-book"],
+    "isFav": false,
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTK_OAwFZWZqQeK1-S_prLCowFuJN6zrLWKKg&usqp=CAU"
+  },
+  {
+    "name": "Sea Shell",
+    "id": 8,
+    "location": "Anna nagar",
+    "rating": 4,
+    "eta": 30,
+    "tags": ["veg", "non-veg", "quick", "fast-book"],
+    "isFav": false,
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTK_OAwFZWZqQeK1-S_prLCowFuJN6zrLWKKg&usqp=CAU"
+  },
+  {
+    "name": "Kumaran hotel",
+    "id": 9,
+    "location": "Anna nagar",
+    "rating": 4,
+    "eta": 12,
+    "tags": ["veg", "quick"],
+    "isFav": false,
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTK_OAwFZWZqQeK1-S_prLCowFuJN6zrLWKKg&usqp=CAU"
+  },
+  {
+    "name": "Zombie Restaurant",
+    "id": 9,
+    "location": "Anna nagar",
+    "rating": 4,
+    "eta": 12,
+    "tags": ["veg", "quick"],
+    "isFav": false,
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTK_OAwFZWZqQeK1-S_prLCowFuJN6zrLWKKg&usqp=CAU"
+  }
+]
